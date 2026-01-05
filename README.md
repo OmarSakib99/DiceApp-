@@ -1,31 +1,52 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Dice App (Swift / iOS)
 
-# Dicee
+## Overview
 
-## Our Goal
+This repository contains a simple **Dice iOS application** built using **Swift** as part of my learning journey in iOS development.
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+The project is based on the *“iOS & Swift – The Complete iOS App Development Bootcamp”* course by **Angela Yu (Udemy)**. I initially cloned the course project and then made my own modifications to better understand Swift, UIKit, and iOS app architecture.
 
-## What you will create
+The app simulates rolling dice and updates the UI dynamically based on user interaction.
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+---
 
+## Purpose of This Project
 
-## What you will learn
+- Learn the fundamentals of **Swift**
+- Understand **UIKit** and Interface Builder
+- Practice working with:
+  - IBOutlets & IBActions
+  - Asset management
+  - Basic app logic and state updates
+- Build confidence by modifying an existing tutorial project
 
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
+---
 
+## Features
 
+- Dice roll simulation
+- Random number generation
+- Dynamic image updates
+- Simple and clean UI
+- Button-based user interaction
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+---
 
-![End Banner](Documentation/readme-end-banner.png)
+## Tech Stack
+
+- **Language:** Swift
+- **Framework:** UIKit
+- **IDE:** Xcode
+- **Platform:** iOS
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- macOS
+- Xcode (latest stable version recommended)
+- Basic knowledge of Swift (or willingness to learn)
+<img width="465" height="986" alt="Screenshot 2026-01-05 at 10 55 05 AM" src="https://github.com/user-attachments/assets/66d4ce1c-27b9-4c29-a954-b13b09e30ea7" />
 
